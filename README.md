@@ -2,9 +2,9 @@
 
 This notebook does dimensionality reduction on an xyz [intrinsic reaction coordinate (IRC) or trajectory] file in three possible ways:
 
-(1) Classical Multidimensional Scaling (CMDS) via the Taketsugu group's method (doi: 10.1021/acs.jctc.8b00176)
-(2) A new method of dimensionality reduction, using mass-weighted coordinates
-(3) A new method of dimensionality reduction (same as above), without mass-weighting
+(1) Classical Multidimensional Scaling (CMDS) via the Taketsugu group's method (doi: 10.1021/acs.jctc.8b00176)<br/>
+(2) A new method of dimensionality reduction, using mass-weighted coordinates<br/>
+(3) A new method of dimensionality reduction (same as above), without mass-weighting<br/>
 
 For example, to compare results for the three different methods on the same xyz file, and example of the syntax for each of these methods would be:
 
