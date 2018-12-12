@@ -6,7 +6,7 @@ This notebook does dimensionality reduction on an xyz [intrinsic reaction coordi
 (2) A new method of dimensionality reduction, using mass-weighted coordinates<br/>
 (3) A new method of dimensionality reduction (same as above), without mass-weighting<br/>
 
-For example, to compare results for the three different methods on the same xyz file, and example of the syntax for each of these methods would be:
+For example, to compare results for the three different methods on the same xyz file, an example of the syntax for each of these methods would be:
 
 file = 'examples/malondialdehyde/malondialdehydeTS_IRC.xyz'<br/>
 ndim = 3<br/>
